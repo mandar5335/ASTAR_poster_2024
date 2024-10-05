@@ -1,7 +1,7 @@
 # REFERENCES:
 1. De Falco,L., Silva,N.M., Santos,N.C., Huber,R.G. and Martins,I.C. (2021) The pseudo-circular genomes of flaviviruses: Structures, mechanisms, and functions of circularization. Cells, 10, 1–19.
 2. Yang,S.L., DeFalco,L., Anderson,D.E., Zhang,Y., Aw,J.G.A., Lim,S.Y., Lim,X.N., Tan,K.Y., Zhang,T., Chawla,T., et al. (2021) Comprehensive mapping of SARS-CoV-2 interactions in vivo reveals functional virus-host interactions. Nat Commun, 12, 1–15.
-3. Huber,R.G., Lim,X.N., Ng,W.C., Sim,A.Y.L., Poh,H.X., Shen,Y., Lim,S.Y., Sundstrom,K.B., Sun,X., Aw,J.G., et al. (2019) Structure mapping of dengue and Zika viruses reveals functional long-range interactions. Nat Commun, 10.
+3. Huber,R.G., Lim,X.N., Ng,W.C., Sim,A.Y.L., Poh,H.X., Shen,Y., Lim,S.Y., Sundstrom,K.B., Sun,X., Aw,J.G., et al. (2019) Structure mapping of dengue and Zika viruses reveals functional long-range interactions. Nat Commun 10, 1408 (2019). https://doi.org/10.1038/s41467-019-09391-8
 4. De Borba,L., Villordo,S.M., Marsico,F.L., Carballeda,J.M., Filomatori,C. V, Gebhard,L.G., Pallarés,H.M., Lequime,S., Lambrechts,L., Vargas,I.S., et al. (2019) RNA Structure Duplication in the Dengue Virus 3’ UTR: Redundancy or Host Specificity? mBio, 10, e02506-02518.
 5. Biesiada,M., Pachulska-Wieczorek,K., Adamiak,R.W. and Purzycka,K.J. (2016) RNAComposer and RNA 3D structure prediction for nanotechnology. Methods, 103, 120–127.
 6. Watkins,A.M., Rangan,R. and Das,R. (2020) FARFAR2: Improved De Novo Rosetta Prediction of Complex Global RNA Folds. Structure, 28, 963-976.e6.
